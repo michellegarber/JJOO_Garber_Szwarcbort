@@ -9,4 +9,12 @@ public class BD{
         db.Execute(SQL, new{pNombre = dep.Nombre, pIdDeporte = dep.IdDeporte, pApellido =dep.Apellido, pFechaNacimiento = dep.FechaNacimiento, pFoto = dep.Foto, pIdPais = dep.IdPais});
     }
     }
+    public static int EliminarDeportista(string DeportistaaEliminar){
+    int RegistrosEliminados = 0;
+    string sql ="DELETE FROM Deportistas WHERE IdDeportista = @IdDeportista";
+    using(SqlConnection db = new SqlConnection(_connectionString)){
+        RegistrosEliminados = db.Execute(sql,new{Deportista = DeportistaaEliminar});
+    }
+    return RegistrosEliminados;
+    }
 }
