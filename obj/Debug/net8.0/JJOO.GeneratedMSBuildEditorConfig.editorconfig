@@ -9,31 +9,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JJOO
 build_property.RootNamespace = JJOO
-build_property.ProjectDir = Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\
+build_property.ProjectDir = Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2
+build_property.MSBuildProjectDirectory = Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort
 build_property._RazorSourceGeneratorDebug = 
 
-[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/Views/Home/Creditos.cshtml]
+[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/JJOO_Garber_Szwarcbort/Views/Home/Creditos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/JJOO_Garber_Szwarcbort/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/Views/_ViewImports.cshtml]
+[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/JJOO_Garber_Szwarcbort/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/Views/_ViewStart.cshtml]
+[Z:/2024/programacion/BIM3/JJOO/JJOO/JJOO_Garber_Szwarcbort-2/JJOO_Garber_Szwarcbort/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

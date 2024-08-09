@@ -7,3 +7,12 @@ Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\obj\Debug\net8.0\JJ
 Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\obj\Debug\net8.0\JJOO.RazorAssemblyInfo.cache
 Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\obj\Debug\net8.0\JJOO.RazorAssemblyInfo.cs
 Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\obj\Debug\net8.0\JJOO.sourcelink.json
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.csproj.AssemblyReference.cache
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.AssemblyInfoInputs.cache
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.AssemblyInfo.cs
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.csproj.CoreCompileInputs.cache
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.MvcApplicationPartsAssemblyInfo.cache
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.RazorAssemblyInfo.cache
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.RazorAssemblyInfo.cs
+Z:\2024\programacion\BIM3\JJOO\JJOO\JJOO_Garber_Szwarcbort-2\JJOO_Garber_Szwarcbort\obj\Debug\net8.0\JJOO.sourcelink.json
