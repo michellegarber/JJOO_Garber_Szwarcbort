@@ -41,5 +41,10 @@ public class HomeController : Controller
         ViewBag.DatosDeportista = BD.VerInfoDeportista;
         return View("DetalleDeportista");
     }
+    public IActionResult Creditos()
+    {
+        return View();
+    }
+
     
 }
