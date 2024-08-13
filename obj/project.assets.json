@@ -511,11 +511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\JJOO.csproj",
+      "projectUniqueName": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\JJOO.csproj",
       "projectName": "JJOO",
-      "projectPath": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\JJOO.csproj",
+      "projectPath": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\JJOO.csproj",
       "packagesPath": "C:\\Users\\48521612\\.nuget\\packages\\",
-      "outputPath": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\obj\\",
+      "outputPath": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

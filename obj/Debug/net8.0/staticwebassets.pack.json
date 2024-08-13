@@ -1,75 +1,103 @@
 {
   "Files": [
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\css\\site.css",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\favicon.ico",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\Thumbs.db",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\banner.jpg",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\banner.jpg",
       "PackagePath": "staticwebassets\\img\\banner.jpg"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\logo.png",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\gimnasiaRitmica.jpg",
+      "PackagePath": "staticwebassets\\img\\gimnasiaRitmica.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\gorzelany.jpg",
+      "PackagePath": "staticwebassets\\img\\gorzelany.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\historia.jfif",
+      "PackagePath": "staticwebassets\\img\\historia.jfif"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\historia.jpg",
+      "PackagePath": "staticwebassets\\img\\historia.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\hockey.jpg",
+      "PackagePath": "staticwebassets\\img\\hockey.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\js\\site.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\tenis.jpg",
+      "PackagePath": "staticwebassets\\img\\tenis.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\voley.jpg",
+      "PackagePath": "staticwebassets\\img\\voley.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\2024\\programacion\\BIM3\\JJOO\\JJOO\\JJOO_Garber_Szwarcbort-2\\JJOO_Garber_Szwarcbort\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
