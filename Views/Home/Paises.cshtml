@@ -1,5 +1,5 @@
-@foreach(Pais newPais in ViewBag.ListarPaises){
-<h1>@newPais.Nombre</h1>
-//<img src = "/img/@newPais.Foto">
+@foreach(Pais pais in ViewBag.ListarPaises){
+<h1>@pais.Nombre</h1>
+<img src = "/img/@pais.Bandera">
 <button><a href = '@Url.Action("VerDetallePais")'> Ver Detalles </a></button>
 }

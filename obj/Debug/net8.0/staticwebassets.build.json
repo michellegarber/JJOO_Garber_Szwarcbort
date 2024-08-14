@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4eoshd7UtfL1o+qPFCNkr21M0GwgZaXSyvidRwhxKZ8=",
+  "Hash": "jdyAXfjWjzRxv7JgdHDKxBLZOODigR4eAU1MiINALSQ=",
   "Source": "JJOO",
   "BasePath": "_content/JJOO",
   "Mode": "Default",
@@ -167,25 +167,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\fritz.jpg"
-    },
-    {
-      "Identity": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\gimnasiaRitmica.jpg",
-      "SourceId": "JJOO",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\",
-      "BasePath": "_content/JJOO",
-      "RelativePath": "img/gimnasiaRitmica.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\gimnasiaRitmica.jpg"
     },
     {
       "Identity": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\goede.jpg",
