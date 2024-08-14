@@ -1,0 +1,5 @@
+@foreach(Pais newPais in ViewBag.ListarPaises){
+<h1>@newPais.Nombre</h1>
+//<img src = "/img/@newPais.Foto">
+<button><a href = '@Url.Action("VerDetallePais")'> Ver Detalles </a></button>
+}
