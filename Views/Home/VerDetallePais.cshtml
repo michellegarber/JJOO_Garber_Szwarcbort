@@ -4,10 +4,15 @@
 <main class = "dep">
 <h1>Pais</h1>
 <h1>@ViewBag.DatosPais.Nombre</h1>
+<h1>Fecha Fundacion: @ViewBag.DatosPais.FechaFundacion.ToShortDateString()</h1>
 <img src = "/img/@ViewBag.DatosPais.Bandera">
+
+<h3 class = "back">Deportistas del País</h3>
 @foreach(Deportista dep in ViewBag.Paises){
 <h1>@dep.Nombre</h1>
 <h1>@dep.Apellido</h1>
 <img src = "/img/@dep.Foto">
+<button class="btn btn-primary"><a class="text-white" style="text-decoration: none;" href = '@Url.Action("VerDetalleDeportista", "Home", new {idDeportista = dep.IdDeportista})'> Ver Detalles </a></button>
 }
+
 </main>

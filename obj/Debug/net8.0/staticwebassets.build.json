@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mLZJVdHWpU+bTIn3hz8BL+9sRWBMAaa22qwpiKGKlV8=",
+  "Hash": "5u8Ztse+SLiciezysq4tHrszGCX+pjoFGYUVCjmlJFk=",
   "Source": "JJOO",
   "BasePath": "_content/JJOO",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bertens.jpg"
+    },
+    {
+      "Identity": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\CREDITOS.png",
+      "SourceId": "JJOO",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\",
+      "BasePath": "_content/JJOO",
+      "RelativePath": "img/CREDITOS.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\CREDITOS.png"
     },
     {
       "Identity": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\dececco.jpg",
