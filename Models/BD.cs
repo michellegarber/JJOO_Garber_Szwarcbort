@@ -61,10 +61,16 @@ public class BD{
         return _ListadoDeportes;
     }
     public static List<Deportista> ListarDeportistaPorPais(int idPais){
+        Console.WriteLine("Estoy en listar deportista por pais");
+        Console.WriteLine(idPais);
         List<Deportista> _ListadoDeportistaPais = new List<Deportista> ();
         using(SqlConnection db = new SqlConnection(_connectionString)){
-          string sql = "SELECT * FROM Deportes WHERE IdPais = @pidPais";
+          string sql = "SELECT * FROM Deportistas WHERE IdPais = @pidPais";
           _ListadoDeportistaPais = db.Query<Deportista>(sql,new{pidPais = idPais}).ToList();
+        }
+
+        foreach(var deportista in _ListadoDeportistaPais){
+            Console.WriteLine(deportista.Nombre);
         }
         return _ListadoDeportistaPais;
     }

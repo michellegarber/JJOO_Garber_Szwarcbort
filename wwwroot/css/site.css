@@ -4,6 +4,37 @@ html {
   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
+.dep{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.dep img{
+  width: 60%;
+  height: auto;
+}
+.dep button{
+  width: 15%;
+
+}
+.backgroundimg{
+  background-image: url('../img/torre.jpg');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  font-style: bold;
+  font-weight: bold;
+  color:#ffffff;
+}
+p, h6{
+  text-align: center;
+}
+
   
 
 @media (min-width: 768px) {
@@ -24,11 +55,14 @@ header nav ul {
   list-style-type: none; 
 }
 
+
 header nav ul li a {
   color: black;
   text-decoration: none; 
 }
-
+.img-fluid{
+  max-width: 100%
+}
 header nav ul img {
   width: 25%;
 }
@@ -53,4 +87,11 @@ footer {
 }
 .Historia{
   background-image: "...\img\historia.jpg";
+}
+
+.foto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }

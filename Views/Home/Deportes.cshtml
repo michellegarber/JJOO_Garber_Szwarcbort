@@ -1,5 +1,12 @@
+@{
+    ViewData["Title"] = "Deportes";
+}
+<img src="\img\DEPORTES.png" class="img-fluid" alt="...">
+<main class = "dep">
+
 @foreach(Deporte dep in ViewBag.Listado){
 <h1>@dep.Nombre</h1>
-<img src = "/img/@dep.Foto">
-<button><a href = '@Url.Action("VerDetalleDeporte")'> Ver Detalles </a></button>
+<img src = "/img/@dep.Foto" class="foto">
+<button class="btn btn-primary"><a class="text-white" style="text-decoration: none;" href = '@Url.Action("VerDetalleDeporte", "Home", new {idDeporte = dep.IdDeporte})'> Ver Detalles </a></button>
 }
+</main>

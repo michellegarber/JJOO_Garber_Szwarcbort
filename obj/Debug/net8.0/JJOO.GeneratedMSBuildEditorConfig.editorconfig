@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\2024\programacion\JJOO_Garber_Szwarcbort
 build_property._RazorSourceGeneratorDebug = 
 
+[Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/AgregarDeportista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyRGVwb3J0aXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/Creditos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,8 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBvcnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/DetalleDeporte.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGxlRGVwb3J0ZS5jc2h0bWw=
+[Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/Historia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/Index.cshtml]
@@ -36,6 +40,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/Paises.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWlzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/VerDetalleDeporte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlRGVwb3J0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/VerDetalleDeportista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlRGVwb3J0aXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Home/VerDetallePais.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlUGFpcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/2024/programacion/JJOO_Garber_Szwarcbort/Views/Shared/_Layout.cshtml]

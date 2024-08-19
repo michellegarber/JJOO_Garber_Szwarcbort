@@ -1,5 +1,11 @@
+@{
+    ViewData["Title"] = "Paises";
+}
+<img src="\img\PAISES.png" class="img-fluid" alt="...">
+<main class = "dep">
 @foreach(Pais pais in ViewBag.ListarPaises){
 <h1>@pais.Nombre</h1>
 <img src = "/img/@pais.Bandera">
-<button><a href = '@Url.Action("VerDetallePais")'> Ver Detalles </a></button>
+<button><a href = '@Url.Action("VerDetallePais", "Home", new {idPais = pais.IdPais})'> Ver Detalles </a></button>
 }
+</main>

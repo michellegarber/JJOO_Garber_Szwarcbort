@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Ver Detalle Deportista";
+}
+<main class = "dep">
+<h1>Deportista</h1>
+<h1>@ViewBag.DatosDeportista.Nombre</h1>
+<h1>@ViewBag.DatosDeportista.Apellido</h1>
+<h4>Fecha de Nacimiento: @ViewBag.DatosDeportista.FechaNacimiento.ToShortDateString()</h4>
+<img src="/img/@ViewBag.DatosDeportista.Foto" alt="Foto Deportista">
+<button><a href='@Url.Action("VerDetallePais", "Home", new { IdPais = ViewBag.DatosDeportista.IdPais })'>Ver País</a></button>
+<button><a href='@Url.Action("VerDetalleDeporte", "Home", new { IdDeporte = ViewBag.DatosDeportista.IdDeporte })'>Ver Deporte</a></button>
+</main>

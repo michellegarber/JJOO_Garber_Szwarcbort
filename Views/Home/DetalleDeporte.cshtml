@@ -1,8 +1,0 @@
-@foreach(Deporte dep in ViewBag.DatosDeporte){
-<h1>@dep.Nombre</h1>
-<img src = "/img/@dep.Foto">
-<button><a href = '@Url.Action("VerDetalleDeporte")'> Ver Detalles </a></button>
-@foreach(Deporte deportista in ViewBag.Deportes){
-<h1>@deportista.Nombre</h1>
-}
-}

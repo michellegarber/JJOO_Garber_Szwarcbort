@@ -1,0 +1,62 @@
+@{
+    ViewData["Title"] = "Agregar deportista";
+}
+<h1>Agregar Deportista</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Deportista</title>
+    <!-- Incluye el CSS de Bootstrap -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<main class = "backgroundimg">
+<div class="container mt-5">
+
+    <form asp-action="Agregar" asp-controller="Deportista" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="nombre">Nombre:</label>
+            <input type="text" class="form-control" id="nombre" name="Nombre" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="fechaNacimiento">Fecha de Nacimiento:</label>
+            <input type="date" class="form-control" id="fechaNacimiento" name="FechaNacimiento" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="imagen">Seleccionar Imagen (Copiar URL de Google):</label>
+            <input type="text" class="form-control" id="imagen" name="Foto" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="idPais">Seleccionar País:</label>
+            <select class="form-control" name="Paises" id="idPais">
+                <option value="Argentina">Argentina</option>
+                <option value="Serbia">Serbia</option>
+                <option value="Estados Unidos">Estados Unidos</option>
+                <option value="Holanda">Holanda</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="idDeporte">Seleccionar Deporte:</label>
+            <select class="form-control" name="Deportes" id="idDeporte">
+                <option value="Hockey">Hockey</option>
+                <option value="Voley">Voley</option>
+                <option value="Tenis">Tenis</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Agregar Deportista</button>
+        </div>
+    </form>
+</div>
+</main>
+
+</body>
+</html>

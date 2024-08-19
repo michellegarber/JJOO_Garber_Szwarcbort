@@ -9,6 +9,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\DEPORTES.png",
+      "PackagePath": "staticwebassets\\img\\DEPORTES.png"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\HISTORIA.png",
+      "PackagePath": "staticwebassets\\img\\HISTORIA.png"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\PAISES.png",
+      "PackagePath": "staticwebassets\\img\\PAISES.png"
+    },
+    {
       "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\Robinson.jpg",
       "PackagePath": "staticwebassets\\img\\Robinson.jpg"
     },
@@ -61,12 +73,28 @@
       "PackagePath": "staticwebassets\\img\\holanda.jpg"
     },
     {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\index.png",
+      "PackagePath": "staticwebassets\\img\\index.png"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\index2.png",
+      "PackagePath": "staticwebassets\\img\\index2.png"
+    },
+    {
       "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
       "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\manley.jpg",
       "PackagePath": "staticwebassets\\img\\manley.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\martina.jpeg",
+      "PackagePath": "staticwebassets\\img\\martina.jpeg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\michelle.jpeg",
+      "PackagePath": "staticwebassets\\img\\michelle.jpeg"
     },
     {
       "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\novak.jpg",
@@ -87,6 +115,10 @@
     {
       "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\tenis.jpg",
       "PackagePath": "staticwebassets\\img\\tenis.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\torre.jpg",
+      "PackagePath": "staticwebassets\\img\\torre.jpg"
     },
     {
       "Id": "Z:\\2024\\programacion\\JJOO_Garber_Szwarcbort\\wwwroot\\img\\usa.png",

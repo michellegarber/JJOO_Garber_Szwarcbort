@@ -1,0 +1,13 @@
+ @{
+    ViewData["Title"] = "Ver Detalle Pais";
+}
+<main class = "dep">
+<h1>Pais</h1>
+<h1>@ViewBag.DatosPais.Nombre</h1>
+<img src = "/img/@ViewBag.DatosPais.Bandera">
+@foreach(Deportista dep in ViewBag.Paises){
+<h1>@dep.Nombre</h1>
+<h1>@dep.Apellido</h1>
+<img src = "/img/@dep.Foto">
+}
+</main>
